@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Google Clone
+<a href="/">This</a> is a google search engine clone
+
+
+<h4>Features</h4>
+  <ul>
+    <li> Light/Dark Mode
+  </ul>
+
+<h4>Lessons Learned</h4>
+  <ul>
+    <li> React.js framework
+    <li> TailwindCSS for styling
+    <li> Routes,Route,Navigate from react-router-dom
+    <li> Context from react (Need to wrap entire App.js in context)
+  </ul> 
+  
+<h4>Problems Encountered</h4>
+  <ul>
+    <li> API not fetching image data (404 error) -> changed API endpoint
+    <li> activeClassName not working with NavLink
+  </ul>
+
+<h4>Improvements to Add</h4>
+  <ul>
+    <li> 
+  </ul>
+
+<h4>Credits</h4>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=NDbruK1fzG8&t=175s">YouTube</a>
+  </ul>
